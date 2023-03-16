@@ -1,1 +1,3 @@
 # ruby_chatgpt_sandbox
+
+rubyでOpenAIのAPIを試してみる
